@@ -1,0 +1,20 @@
+/* single course style */
+
+.single-course{
+    display: flex;
+    align-items: center;
+}
+.single-course img{
+    width: 500px;
+    height: 400px;
+}
+.text-box{
+    margin-left: 40px;
+    border: 1px solid cadetblue;
+    padding:30px;
+    background-color: lightblue;
+    width: 500px;
+    height: 350px;
+    border-radius: 15px;
+    color: #1976D2;
+}

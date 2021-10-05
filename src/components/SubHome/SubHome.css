@@ -1,0 +1,24 @@
+/* home style */
+
+.sub-home{
+    border-radius:10px;
+    background-color: white;
+    padding: 20px;
+}
+.sub-home img{
+    border-radius: 10px;
+    margin-left: 30px;
+    width: 450px;
+    height: 250px;
+}
+.sub-home h1,p,h2{
+    color: #1976D2;
+    margin:  15px 0 0 30px;
+}
+.sub-home h1{
+    text-transform: uppercase;
+}
+.sub-text{
+    display: flex;
+    align-items: center;
+}

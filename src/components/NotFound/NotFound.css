@@ -1,0 +1,11 @@
+/* not found style */
+.not-found {
+  height: 78vh;
+  text-align: center;
+  margin-top: 40px;
+}
+.not404 {
+  font-size: 100px;
+  color: tomato;
+  margin-bottom: 20px;
+}

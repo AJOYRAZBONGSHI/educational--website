@@ -1,0 +1,26 @@
+
+/* about section style */
+
+.about{
+    background-image: url('https://www.techadvisor.com/cmsdata/features/3512328/check_computer_specification_thumb1200_4-3.jpg');
+    height: 90vh;
+    color: aqua;
+    padding: 30px;
+    text-align: center;
+}
+.about-main{
+    display: flex;
+    align-items: center;
+}
+.img{
+    width: 300px;
+}
+.about-text{
+    width:50%;
+    padding: 30px;
+    margin: 30px;
+}
+.about-text h1,p{
+    color: aqua;
+
+}

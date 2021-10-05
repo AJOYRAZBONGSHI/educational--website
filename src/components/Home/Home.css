@@ -1,0 +1,15 @@
+/* home style */
+
+.home{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 20px;
+    width: 90%;
+    margin: 20px auto;
+}
+.welcome{
+    text-align: center;
+    color: #1976D2;
+    font-size: 40px;
+    font-weight:bold;
+}
